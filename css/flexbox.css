@@ -46,7 +46,7 @@
 /* background page and heading*/
 
 .content{
-        background-image:linear-gradient(to top, rgb(255, 255, 255), rgba(46, 38, 43, 0.73)), url("/images/cassette.jpg");
+        background-image:linear-gradient(to top, rgb(255, 255, 255), rgba(46, 38, 43, 0.73)), url("../images/cassette.jpg");
         background-repeat: no-repeat;
         background-size: cover;
         height: 75vh;
